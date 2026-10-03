@@ -1,3 +1,4 @@
+---
 #!/bin/bash
 
 # Brand Voice Skill — Installer
